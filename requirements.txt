@@ -1,0 +1,6 @@
+google-adk
+fastapi
+uvicorn
+pinecone
+python-dotenv
+pydantic

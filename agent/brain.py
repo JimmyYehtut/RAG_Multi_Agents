@@ -12,7 +12,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 load_dotenv()
 
 # Configuration
-MODEL_NAME = os.getenv("LLM_MODEL_NAME", "gemini-2.0-flash")
+MODEL_NAME = os.getenv("LLM_MODEL_NAME", "gemini-3.1-flash-lite")
 # Global session service to persist state if needed
 session_service = InMemorySessionService()
 

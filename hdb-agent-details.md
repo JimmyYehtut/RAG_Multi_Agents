@@ -1,7 +1,6 @@
 # HDB Agentic RAG Lab - Session Memory
 
 ## Project Overview
-- **Path:** `C:\Users\yehtu\Documents\Gemini_CLI\Agentic-RAG-Lab\my-hdb-agent`
 - **Core Stack:** Google Cloud ADK (v2.2.0), FastAPI, Pinecone, Gemini 1.5 Flash.
 
 ## Configuration Details
